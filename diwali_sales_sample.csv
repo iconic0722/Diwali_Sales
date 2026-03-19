@@ -1,0 +1,11 @@
+User_ID,Cust_name,Product_ID,Gender,Age_Group,Age,Marital_Status,State,Zone,Occupation,Product,Orders,Amount,Status
+1003001,Rohan,P003452,M,26-35,29,1,Delhi,Central,IT Sector,Auto,2,24560,Completed
+1003002,Aisha,P001874,F,18-25,22,0,Maharashtra,Western,Student,Auto,1,19870,Completed
+1003003,Karan,P002934,M,36-45,38,1,Gujarat,Western,Business,Auto,3,27650,Completed
+1003004,Meera,P003284,F,26-35,31,1,Karnataka,Southern,Banking,Auto,2,23120,Completed
+1003005,Arjun,P004112,M,18-25,24,0,Uttar Pradesh,Central,Govt,Auto,1,18990,Pending
+1003006,Isha,P002781,F,26-35,30,1,Telangana,Southern,Healthcare,Auto,2,24300,Completed
+1003007,Raj,P003997,M,46-50,47,1,Punjab,Northern,Construction,Auto,3,26780,Completed
+1003008,Neha,P001663,F,18-25,21,0,Haryana,Northern,Student,Auto,1,17890,Completed
+1003009,Aman,P002874,M,26-35,33,1,Rajasthan,Northern,Lawyer,Auto,2,22900,Completed
+1003010,Priya,P003541,F,36-45,40,1,Andhra Pradesh,Southern,Retail,Auto,3,25980,Completed
